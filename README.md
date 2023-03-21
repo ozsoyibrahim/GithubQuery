@@ -4,6 +4,6 @@
 
 ### You can query by entering a name.
 
-### Please <a href="#">CLICK</a> here for using website.
+### Please <a href="https://ozsoyibrahim.github.io/GithubQuery/">CLICK</a> here for using website.
 
 ![screen.gif](screen.gif)
